@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
-
+// Add Daisy UI Navbar
 const Nav = () => {
   return (
     <nav>

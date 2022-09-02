@@ -7,7 +7,7 @@ const daisy = () => {
         Daisy UI Components
       </h1>
       <section className='mx-auto flex justify-center items-center'>
-        <div className='hero min-h-screen bg-base-200 '>
+        <div className='hero mt-10 min-h-screen bg-base-200 '>
           <div className='hero-content text-center'>
             <div className='max-w-md'>
               <h1 className='text-5xl font-bold'>Hello there</h1>
