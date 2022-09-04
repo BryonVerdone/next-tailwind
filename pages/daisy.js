@@ -1,6 +1,7 @@
 import React from 'react';
 import Box from '../components/Box';
 import Avatar from '../components/Avatar';
+import Card from '../components/Card';
 const daisy = () => {
   return (
     <>
@@ -21,6 +22,16 @@ const daisy = () => {
           </div>
         </div>
         <Avatar />
+      </section>
+      <section className='mx-auto flex gap-3 flex-wrap justify-center'>
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
       </section>
     </>
   );
